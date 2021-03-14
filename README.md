@@ -8,6 +8,10 @@ Scratcher. A music streaming server and client.
 Server is made with Laravel. The mobile client in React Native.
 Currently it's not public although i do intend on releasing it, once i am happy with the initial implementation.
 
+![image](https://user-images.githubusercontent.com/11337105/111062583-11085e80-84aa-11eb-869b-cb2ca5983e35.png)
+![image](https://user-images.githubusercontent.com/11337105/111062606-2da49680-84aa-11eb-9b35-060670ace1c8.png)
+![image](https://user-images.githubusercontent.com/11337105/111062611-35643b00-84aa-11eb-9ba7-70e129ff2b76.png)
+
 ⚡ Fun fact:
 
 Every year when Formula 1 is in Belgium. There is a heated discussion on whether a corner is named Eau Rouge or Raidillon.
